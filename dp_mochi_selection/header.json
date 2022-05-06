@@ -1,0 +1,18 @@
+{
+  "name": "DP 良い譜面難易度表",
+  "symbol": "☆",
+  "level_order": [
+    "0",
+    "1"
+  ],
+  "folder_order": [ ],
+  "folder_sort_key": "level",
+  "folder_sort_ascending": true,
+  "entry_type": "",
+  "data_url": "data.json",
+  "compat_prefix": "あ",
+  "last_update": "2022\/04\/18",
+  "editor_name": "BeMusicSeeker",
+  "editor_version": "0.3.5.6",
+  "output_date": "2022\/05\/03"
+}
